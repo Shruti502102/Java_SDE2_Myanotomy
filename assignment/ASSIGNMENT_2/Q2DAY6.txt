@@ -1,0 +1,10 @@
+Problem Statement: Employee Performance & Demographic Insights System
+Assessment Title: 
+Employee Performance & Demographic Insights System (EPDIS)
+
+Context:
+A rapidly growing multinational corporation is experiencing challenges in efficiently deriving actionable insights from its large and diverse employee dataset. Current manual reporting processes are time-consuming, prone to error, and lack the dynamic analysis capabilities required for strategic HR decision-making. The HR and management teams require a robust, automated tool that can quickly process employee data to identify trends, evaluate departmental performance, and understand demographic distributions.
+
+Problem:
+The company lacks an efficient, automated system to perform critical analytical tasks on its employee data. Key pain points include:
+Inefficient Data Querying: Manually sifting through records to find specific employee groups (e.g., all engineers, sales staff in a particular city) is slow and difficult.
