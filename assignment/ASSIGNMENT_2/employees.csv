@@ -1,0 +1,6 @@
+id,name,age,gender,city,department,role,performanceRating
+101,Alice,29,F,Delhi,Engineering,Software Engineer,4.5
+102,Bob,35,M,Mumbai,Sales,Sales Executive,3.8
+103,Charlie,30,M,Delhi,Engineering,DevOps Engineer,4.2
+104,Diana,28,F,Chennai,HR,HR Executive,4.0
+105,Eva,32,F,Delhi,Sales,Sales Executive,4.1
