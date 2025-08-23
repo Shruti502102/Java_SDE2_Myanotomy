@@ -1,0 +1,8 @@
+@SpringBootApplication
+public class UsermanagementapiApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(UsermanagementapiApplication.class, args);
+	}
+}
+
