@@ -1,1 +1,1 @@
-# Java_SDE2_Myanotomy
+Day to Day Code for JAVA SDE Course
